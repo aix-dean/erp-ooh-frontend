@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CAMP001",
+    "client_id": "CL001",
+    "name": "Summer Sales Blast",
+    "start_date": "2025-10-01",
+    "end_date": "2025-10-31",
+    "objectives": "Increase brand awareness and drive sales.",
+    "billboards": [
+      { "billboard_id": "BB001", "creative_asset_id": "ASSET001" }
+    ],
+    "status": "Active",
+    "creative_assets": [
+      { "id": "ASSET001", "name": "Summer Sale Ad 1", "url": "/assets/summer_sale_ad1.jpg", "version": 1 }
+    ]
+  }
+]

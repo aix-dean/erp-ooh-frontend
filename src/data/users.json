@@ -1,0 +1,18 @@
+[
+  {
+    "id": "USER001",
+    "username": "admin",
+    "email": "admin@erp.com",
+    "role": "Admin",
+    "permissions": ["all"],
+    "status": "Active"
+  },
+  {
+    "id": "USER002",
+    "username": "salesrep",
+    "email": "sales@erp.com",
+    "role": "Sales",
+    "permissions": ["view_sales", "create_proposal", "manage_bookings"],
+    "status": "Active"
+  }
+]

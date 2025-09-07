@@ -1,0 +1,56 @@
+[
+  {
+    "id": "BB001",
+    "location": {
+      "address": "123 Main St, Anytown, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "type": "Digital",
+    "size": "14x48",
+    "illumination": "LED",
+    "status": "Active",
+    "photos": [
+      "/images/billboard_bb001_1.jpg",
+      "/images/billboard_bb001_2.jpg"
+    ],
+    "technical_specs": {
+      "resolution": "1920x1080",
+      "refresh_rate": "60Hz"
+    },
+    "pricing_tiers": [
+      { "duration": "1 week", "price": 1500 },
+      { "duration": "1 month", "price": 5000 }
+    ],
+    "availability": [
+      { "start_date": "2025-10-01", "end_date": "2025-10-07", "booked": true },
+      { "start_date": "2025-10-15", "end_date": "2025-10-21", "booked": false }
+    ],
+    "maintenance_history": [
+      { "date": "2025-08-10", "description": "Routine cleaning", "team": "Team A" }
+    ]
+  },
+  {
+    "id": "BB002",
+    "location": {
+      "address": "456 Oak Ave, Anytown, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "type": "Static",
+    "size": "10x30",
+    "illumination": "None",
+    "status": "Active",
+    "photos": [
+      "/images/billboard_bb002_1.jpg"
+    ],
+    "technical_specs": {},
+    "pricing_tiers": [
+      { "duration": "1 month", "price": 2000 }
+    ],
+    "availability": [
+      { "start_date": "2025-09-01", "end_date": "2025-09-30", "booked": true }
+    ],
+    "maintenance_history": []
+  }
+]

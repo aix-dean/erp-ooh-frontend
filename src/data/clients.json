@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CL001",
+    "name": "AdVantage Marketing",
+    "contact_person": "Jane Doe",
+    "email": "jane.doe@advantage.com",
+    "phone": "555-123-4567",
+    "company_info": "Leading marketing agency.",
+    "industry": "Advertising",
+    "address": "789 Pine St, Anytown, USA",
+    "communication_log": [
+      { "date": "2025-08-20", "type": "Email", "subject": "New Inquiry", "notes": "Client interested in Q4 campaign." }
+    ],
+    "tasks": [
+      { "id": "TASK001", "description": "Follow up on Q4 proposal", "due_date": "2025-09-15", "status": "Pending" }
+    ]
+  }
+]

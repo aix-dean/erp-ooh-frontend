@@ -1,0 +1,15 @@
+[
+  {
+    "id": "INV001",
+    "client_id": "CL001",
+    "campaign_id": "CAMP001",
+    "issue_date": "2025-10-01",
+    "due_date": "2025-10-31",
+    "amount": 5000,
+    "status": "Pending",
+    "items": [
+      { "description": "Billboard BB001 - 1 month", "quantity": 1, "unit_price": 5000 }
+    ],
+    "payment_history": []
+  }
+]

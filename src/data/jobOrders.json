@@ -1,0 +1,19 @@
+[
+  {
+    "id": "JO001",
+    "billboard_id": "BB001",
+    "type": "Installation",
+    "description": "Install new creative for Summer Sales Blast.",
+    "assigned_team": "Field Team Alpha",
+    "priority": "High",
+    "status": "In Progress",
+    "created_date": "2025-09-01",
+    "due_date": "2025-09-05",
+    "materials": [
+      { "item": "Vinyl Banner", "quantity": 1 }
+    ],
+    "proof_of_performance": [
+      { "date": "2025-09-04", "photo_url": "/proofs/jo001_proof1.jpg", "notes": "Installation complete." }
+    ]
+  }
+]
